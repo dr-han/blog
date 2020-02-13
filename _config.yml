@@ -3,7 +3,7 @@ name: "India Shares Investment"
 title: "Indian Investments and Business Guide"
 description: "Insightful news and analysis that helps investors make crucial decisions. Providing headlines on investment strategies, investing ideas and market trends."
 meta_description: "Insightful news and analysis that helps investors make crucial decisions. Providing headlines on investment strategies, investing ideas and Indian market trends."
-logo: 'india_shares_investment_blog_logo_small.png'
+logo: 'assets/images/india_shares_investment_blog_logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
