@@ -1,36 +1,27 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+name: "India Shares Investment"
+title: "Indian Investments and Business Guide"
+description: "Insightful news and analysis that helps investors make crucial decisions. Providing headlines on investment strategies, investing ideas and market trends."
+meta_description: "Insightful news and analysis that helps investors make crucial decisions. Providing headlines on investment strategies, investing ideas and Indian market trends."
+logo: 'india_shares_investment_blog_logo_small.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
-google_analytics: 'UA-46278016-1'
+email: 'info@indiasharesinvestment.com'
+google_analytics: ''
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Ambedkar Roy
+    display_name: Ambedkar Roy
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
+    email: info@indiasharesinvestment.co
+    web: indiasharesinvestment.com
+    twitter: https://twitter.com/indiasharesinvestment
+    description: ""
 # Plugins
 plugins: 
   - jekyll-paginate
