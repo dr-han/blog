@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Indian Stock Market"
+title:  Indian Stock Market
 categories: [ India, stock market ]
 image: https://res.cloudinary.com/openwolf/image/upload/v1581843054/isi/india-shares-investment-indian-stock-exchange.png
 featured: true
