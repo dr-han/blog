@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Indian Stock Market
+categories: [ India, Stock-market ]
 image: assets/images/india-shares-investment-indian-stock-market.png
 featured: true
 ---
