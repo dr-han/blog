@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Indian Stock Market
-date: 2020-01-04 07:00
+date: 2020-01-22 07:00
 categories: [ India, Stock-market ]
 image: assets/images/india-shares-investment-indian-stock-market.png
 featured: true
