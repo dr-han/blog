@@ -82,5 +82,4 @@ The book below is concise and practical. It’s penned for everyone to learn and
 
 <br>
 
-![Get the Book](https://indiasharesinvestment.com/assets/images/beginner-guide-to-trading-aziz-andrew-amazon-indiasharesinvestment-Thumbnail.jpg)](https://amzn.to/2HBAxsM)
-
+<a target="_blank"  href="https://www.amazon.com/gp/product/1535585951/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1535585951&linkCode=as2&tag=openwolf-20&linkId=5d63eae5fa32a9133b0cececcce2dbfc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1535585951&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=openwolf-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=openwolf-20&l=am2&o=1&a=1535585951" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
