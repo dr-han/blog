@@ -81,4 +81,8 @@ The book below is concise and practical. It’s penned for everyone to learn and
 <a target="_blank" href="https://www.amazon.com/gp/product/1535585951/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1535585951&linkCode=as2&tag=openwolf-20&linkId=57a1e2e187035687cb43e3ddb700a364">How to Day Trade for a Living: A Beginner’s Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=openwolf-20&l=am2&o=1&a=1535585951" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <br>
-[![Get the Book](https://indiasharesinvestment.com/assets/images/beginner-guide-to-trading-aziz-andrew-amazon-indiasharesinvestment-Thumbnail.jpg)](https://amzn.to/2HBAxsM)
+
+[![Get the Book][2]][1]
+[1]: https://amzn.to/2HBAxsM
+[2]: https://indiasharesinvestment.com/assets/images/beginner-guide-to-trading-aziz-andrew-amazon-indiasharesinvestment-Thumbnail.jpg (Get the Book)
+
