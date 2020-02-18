@@ -82,7 +82,5 @@ The book below is concise and practical. It’s penned for everyone to learn and
 
 <br>
 
-[![Get the Book][2]][1]
-[1]: https://amzn.to/2HBAxsM
-[2]: https://indiasharesinvestment.com/assets/images/beginner-guide-to-trading-aziz-andrew-amazon-indiasharesinvestment-Thumbnail.jpg (Get the Book)
+![Get the Book](https://indiasharesinvestment.com/assets/images/beginner-guide-to-trading-aziz-andrew-amazon-indiasharesinvestment-Thumbnail.jpg)](https://amzn.to/2HBAxsM)
 
