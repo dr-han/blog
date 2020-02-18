@@ -62,8 +62,10 @@ Since this is where many newcomers lose money - the brokerage fees and expenses 
 
 ## What Documents Do I Need to Start Trading?
 
-**1. PAN card ** ([Apply Online](https://www.incometaxindia.gov.in/Pages/tax-services/apply-for-pan.aspx))
+**1. PAN card** ([Apply Online](https://www.incometaxindia.gov.in/Pages/tax-services/apply-for-pan.aspx))
+
 **2. Aadhar Card** (Mobile number linked)
+
 **3. Bank account**
 
 ## How do I Learn to Trade?
