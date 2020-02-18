@@ -1,22 +1,11 @@
 ---
 layout: page
-title: About
-comments: true
+title: About Us
+comments: false
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+India Shares & Investment provides insightful news and analysis that helps investors make crucial decisions. We offer investment strategies, ideas and advice on market trends. Most of our coverage include the Indian market and cryptocurrency trading.
 
-**License & Download**
+We have been providing quality data about the Indian investments and stock market trading **for the past 11 years.** 
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
-
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
+Since the start of 2020, our team of writers decided to revamp this website and offer learning programmes in the form of free articles and courses to address a recent influx of new investors from diverse backgrounds. 
