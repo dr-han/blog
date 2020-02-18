@@ -18,7 +18,7 @@ Unfortunately, India has poor investment-related resources available to the gene
 
 This article is directed at **beginners to the Indian stock market** and will include basic terminology and steps to start investing. To uncomplicate the complicated landscape of the stock exchange, one must learn the very basics. So let's take you through them quickly. 
 
-##What is a Stock? 
+## What is a Stock? 
 
 A stock is also an investment. When a company has consumed it's venture capital and the company has achieved a particular size, the next step for that company is to enter the public market to grow even bigger. This is when you hear that "a company has gone public". 
 
@@ -28,19 +28,19 @@ We are then able to purchase a part of the company's ownership for a small sum. 
 
 Investors buy shares of a company that they estimate will go up in value. If it happens, the company’s stock increases in value which then can be sold for a profit.
 
-##Who is a Shareholder?
+## Who is a Shareholder?
 If you own stock in a company, you become a shareholder since you share the company’s profits.
 
-##NSE and SENSEX - The Indian Stock Exchange
+## NSE and SENSEX - The Indian Stock Exchange
 Public companies like Tata Motors or Facebook sell their stock through a stock market exchange. In India, the most prominent exchanges are the NSE and SENSEX. Before you read any further, you must understand what they are and how they work. You can read our simple [article about the Indian Stock Market](https://indiasharesinvestment.com/Indian-Stock-Market/). 
 
-##Primary and Secondary Market Trading
+## Primary and Secondary Market Trading
 
 *Primary market* is when the shares of a company are bought directly though a stock exchange.  While a *Secondary market* is when the shares that were initially bought from the primary market will be traded over and over. For example, all shares from Cipla, an Indian pharmaceutical giant were sold and if you now want to purchase shares you will need to buy them from the previous owners of those shares through the exchange. 
 
 So which market is more profitable? **The secondary market**. You have an opportunity to bid shares at higher prices to new owners.  
 
-##Buying and Selling - Trading
+## Buying and Selling - Trading
 
 Hundreds of thousands of shares are traded daily with crores of cash flowing through computer terminals of the NSE and BSE. The prices of stocks are based on the volume traded and are volatile in nature depending on internal and external factors. 
 
@@ -48,10 +48,10 @@ Internal factors include stock split, mergers, demergers, [dividend distribution
 
 External factors can be anywhere from a recession or election results to a [terrorist attack](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6407467/). 
 
-##How Do I Buy Shares?
+## How Do I Buy Shares?
 Only registered brokers can purchase or sell stocks in the Indian stock exchanges. If you are not a stockbroker, you can buy and sell stocks through them. 
 
-##Where do I find a stockbroker?
+## Where do I find a stockbroker?
 Online, of course. There are SEBI registered online brokers with excellent online platforms to help you start trading today. There can be a lot of brokers online, but for a beginner, always choose the broker with the lowest charges. 
 
 Yes. There are **brokerage fees* that you need to pay on trading that these brokers will do on your behalf. This is how brokers make money. 
@@ -60,13 +60,13 @@ Since this is where many newcomers lose money - the brokerage fees and expenses 
 
 ![Recommended Online Trading Platforms for Indians](https://indiasharesinvestment.com/assets/images/indiastockinvestment-recommended-trading-platforms.png)
 
-##What Documents Do I Need to Start Trading?
+## What Documents Do I Need to Start Trading?
 
 **1. PAN card ** ([Apply Online](https://www.incometaxindia.gov.in/Pages/tax-services/apply-for-pan.aspx))
 **2. Aadhar Card** (Mobile number linked)
 **3. Bank account**
 
-##How do I Learn to Trade?
+## How do I Learn to Trade?
 
 >Learning to buy and sell shares to make a good profit is an art.
 
@@ -78,6 +78,11 @@ On his very first trade, he earned over Rs. 4,00,000 in just a few minutes. It w
 
 The book below is concise and practical. It’s penned for everyone to learn and understand. Take a look at the book below.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=openwolf-20&marketplace=amazon&region=US&placement=1535585951&asins=1535585951&linkId=4c575da90eb9c5a7ffe22cf11b7335df&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+<a target="_blank" href="https://www.amazon.com/gp/product/1535585951/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1535585951&linkCode=as2&tag=openwolf-20&linkId=57a1e2e187035687cb43e3ddb700a364">How to Day Trade for a Living: A Beginner’s Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=openwolf-20&l=am2&o=1&a=1535585951" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<br>
+[![Get the Book](https://res.cloudinary.com/openwolf/image/upload/c_thumb,w_200,g_face/v1581998644/isi/beginner-guide-to-trading-aziz-andrew-amazon-indiasharesinvestment.jpg)](https://amzn.to/2HBAxsM)
+
+
+
 
