@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Indians Demand Tax Cuts To Deal with Coronavirus
-date: 2020-01-22 07:00
-categories: [ India, Stock-market ]
+date: 2020-02-18 
+categories: [ Coronavirus, Global ]
 image: assets/images/corona-virus-india-economic-impact.jpg	
 featured: false
 ---
