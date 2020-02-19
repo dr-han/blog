@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How to Open a Demat Account for Free with Zero Brokerage
-date: 2020-02-18 
+date: 2020-02-20
 categories: [ Stock-market, How-To, Demat ]
 image: assets/images/indiasharesinvestment-how-to-open-demat-account.png
 featured: false
