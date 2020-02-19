@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Gold and Silver prices increase today with positive global signals
+title:   and Silver prices increase today with positive global signals
 date: 2020-02-18
 categories: [ Gold-Price ]
 image: assets/images/gold-price-increase-indiasharesinvestment.jpg	
