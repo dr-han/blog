@@ -25,4 +25,5 @@ While there are several companies out there today offering free Demat accounts, 
 
 Let us be clear, we have no affiliation with Zerodha nor do we gain any commission from them for this recommendation. We use this platform ourselves and have had good reviews about them from our clients.
 If you are new to stock trading, we strongly recommend that you start with our Beginner's Guide:
+
 [Beginner's Guide to Indian Stock Market Trading](https://indiasharesinvestment.com/beginners-guide-indian-stock-market-trading/)
