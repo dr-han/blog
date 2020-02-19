@@ -44,5 +44,3 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
-
-sitemap: true
