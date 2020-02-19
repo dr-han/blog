@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  How to Open a Demat Account for Free with Zero Brokerage
-date: 2020-02-19 
+date: 2020-02-18 
 categories: [ Stock-market, How-To, Demat ]
 image: assets/images/indiasharesinvestment-how-to-open-demat-account.png
 featured: false
 ---
-A Demat Account is the fastest way to start trading in the [Indian Stock Market](https://indiasharesinvestment.com/Indian-Stock-Market/). It
-permits you to hold investments in a digital manner in something called a 'Demat account'. By opening such an account, you can invest, hold shares, monitor stock and trade in a cost-effective manner. 
+
+A Demat Account is the fastest way to start trading in the [Indian Stock Market](https://indiasharesinvestment.com/Indian-Stock-Market/). It permits you to hold investments in a digital manner in something called a 'Demat account'. By opening such an account, you can invest, hold shares, monitor stock and trade in a cost-effective manner. 
 
 Before 1996, shares were traded through a certificate system. This was a manual, time-consuming procedure with a lot of paperwork involved. It was a rather hectic process. When they finally introduced digital share trading, it came to be known as the dematerialization (Demat) of shares. 
 
