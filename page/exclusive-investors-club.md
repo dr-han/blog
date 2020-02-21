@@ -7,7 +7,7 @@ title: Exclusive Investor's Club
         <h1><span>{{ page.title }}</span></h1>
     </div>
 
-<strong>Enter to you details below to get started.</strong>
+<strong>Enter your details below to get started.</strong>
 
 <form action="https://send.pageclip.co/pJDKofkNAyqkwTtBwlIXknP01775P9yT" class="pageclip-form" method="post">
  
