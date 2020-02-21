@@ -4,20 +4,23 @@ title: Exclusive Investor's Club
 ---
 <section>
     <div class="section-title">
-        <h2><span>{{ page.title }}</span></h2>
+        <h1><span>{{ page.title }}</span></h1>
     </div>
 
-<h3>Enter to you details below to get started.</h3>
+<strong>Enter to you details below to get started.</strong>
 
 <form action="https://send.pageclip.co/pJDKofkNAyqkwTtBwlIXknP01775P9yT" class="pageclip-form" method="post">
  
  <div class="form-group row">
+     <div class="col-md-6">
+  <input class="form-control" type="text" name="whatsapp" placeholder="Your WhatsApp Number (with Country Code)" required />
+</div>
+    <br>
+    
  <div class="col-md-6">
  <input class="form-control" type="text" name="name" placeholder="Your Name" required />
  </div>
- <div class="col-md-6">
-  <input class="form-control" type="text" name="whatsapp" placeholder="WhatsApp Number (with Country Code)" required />
-</div>
+<br>
  <div class="col-md-6">
   <input class="form-control" type="email" name="email" placeholder="Your Valid Email" required />
 </div>
