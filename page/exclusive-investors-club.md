@@ -1,6 +1,7 @@
 ---
 layout: club
 title: Exclusive Investor's Club
+image: assets/images/exclusive-investors-club-indiasharesinvestment.png
 ---
 <section>
     <div class="section-title">
@@ -35,7 +36,7 @@ title: Exclusive Investor's Club
 <br>
 <br>
 <h3>Benefits of Joining The Exclusive Club</h3>
-<br><br>
+<br>
 <h4> What to expect</h4>
 We’ll send about three messages in a week — including 1-2 Best Selling Investor Ebooks for FREE and summaries of our biggest reports or guides. 
 <br><br>
