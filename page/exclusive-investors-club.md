@@ -15,12 +15,12 @@ title: Exclusive Investor's Club
      <div class="col-md-6">
   <input class="form-control" type="text" name="whatsapp" placeholder="Your WhatsApp Number (with Country Code)" required />
 </div>
-    <br>
+    <br><br>
     
  <div class="col-md-6">
  <input class="form-control" type="text" name="name" placeholder="Your Name" required />
  </div>
-<br>
+<br><br>
  <div class="col-md-6">
   <input class="form-control" type="email" name="email" placeholder="Your Valid Email" required />
 </div>
@@ -35,11 +35,10 @@ title: Exclusive Investor's Club
 <br>
 <br>
 <h3>Benefits of Joining The Exclusive Club</h3>
-
+<br><br>
 <h4> What to expect</h4>
-<br>
 We’ll send about three messages in a week — including 1-2 Best Selling Investor Ebooks for FREE and summaries of our biggest reports or guides. 
-<br>
+<br><br>
  <h4> How to subscribe</h4> 
 First, make sure you have WhatsApp on your mobile device. You can download it from the App Store for iOS or on Google Play for Android. Enter your details above including your phone number and email. 
 
