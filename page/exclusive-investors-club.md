@@ -7,17 +7,19 @@ title: Exclusive Investor's Club
         <h2><span>{{ page.title }}</span></h2>
     </div>
 
+<h3>Enter to you details below to get started.</h3>
+
 <form action="https://send.pageclip.co/pJDKofkNAyqkwTtBwlIXknP01775P9yT" class="pageclip-form" method="post">
  
-    <div class="form-group row">
+ <div class="form-group row">
  <div class="col-md-6">
- <input type="text" name="name" value="Your Name" />
+ <input class="form-control" type="text" name="name" placeholder="Your Name" required />
  </div>
  <div class="col-md-6">
-  <input type="text" name="whatsapp" value="WhatsApp Number" />
+  <input class="form-control" type="text" name="whatsapp" placeholder="WhatsApp Number (with Country Code)" required />
 </div>
  <div class="col-md-6">
-  <input type="email" name="email" value="Your Valid Email" />
+  <input class="form-control" type="email" name="email" placeholder="Your Valid Email" required />
 </div>
 
 </div>
@@ -27,7 +29,8 @@ title: Exclusive Investor's Club
   </button>
 </form>
 
-
+<br>
+<br>
 <h3>Benefits of Joining The Exclusive Club</h3>
 
 <h4> What to expect</h4>
