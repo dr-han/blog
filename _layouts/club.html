@@ -221,7 +221,12 @@
     
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
 <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
-    
+<script type="text/javascript">var form = document.querySelector('.pageclip-form')
+Pageclip.form(form, {
+  onSubmit: function (event) { },
+  onResponse: function (error, response) { },
+  successTemplate: '<span>Success! You are now part of the Exclusive Investors Club. We will update you soon with more details. </span>'
+})</script>
 </body>
     
 </html>
