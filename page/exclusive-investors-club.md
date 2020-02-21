@@ -1,12 +1,12 @@
 ---
 layout: club
 title: Exclusive Investor's Club
-image: assets/images/exclusive-investors-club-indiasharesinvestment.png
 ---
 <section>
     <div class="section-title">
         <h1><span>{{ page.title }}</span></h1>
     </div>
+<img class="featured-image img-fluid" src="/assets/images/exclusive-investors-club-indiasharesinvestment.png" alt="Beginner's Guide to Indian Stock Market Trading">
 
 <strong>Enter your details below to get started.</strong>
 
