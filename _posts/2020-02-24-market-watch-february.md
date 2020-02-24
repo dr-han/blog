@@ -10,7 +10,7 @@ featured: false
 
 U.S. equity futures declined with Asian shares and gold prices climbed following the increase of COVID (coronavirus) cases outside of Mainland China. Anxieties grew that global economic growth could take a more continued blow. S&P 500 Index futures tumbled down nearly 1.3 percent, including shares in Seoul and Sydney too falling lower. The Singapore-traded SGX Nifty, an early indicator of NSE Nifty 50 Index’s performance in India, fell 0.68.
 
-### ### Here Are The Stocks To Watch Out
+### Here Are The Stocks To Watch Out
 
 ### <small>Updated 24th Feb, 2020</small>
 
@@ -23,7 +23,7 @@ U.S. equity futures declined with Asian shares and gold prices climbed following
 -   **Dhanlaxmi Bank:** RBI authorized the selection of Sunil Gurbaxani as MD & CEO of the Bank for three years.
 -   **Dixon Technologies** promoter Sunil Vachani slashed his stake from 36.27 percent to 34.67 percent in the company on Feb. 20.
 -   **ACC:** Neeraj Akhoury quit as MD and CEO with effect from February 20. The firm said he will continue to be on the Board as a non-executive independent director.
--   **<style color="red">Reliance Home Finance (Watchout)</style>** defaulted in payment of term loan worth Rs 36 crore which was due on Jan. 18. The business has a total monetary indebtedness of Rs 11955 crore, out of which Rs 3,890 crore is outstanding borrowings from Banks/Financial Institutions, as on Jan. 31.
+-   **Reliance Home Finance (Watchout)** defaulted in payment of term loan worth Rs 36 crore which was due on Jan. 18. The business has a total monetary indebtedness of Rs 11955 crore, out of which Rs 3,890 crore is outstanding borrowings from Banks/Financial Institutions, as on Jan. 31.
 -   **Aurobindo Pharma:** U.S. FDA withdraws voluntary action Initiated Status for Unit IV. It says Unit IV is still open and under review, U.S. FDA only had issued a ‘Voluntary Action Initiated’ status on Feb. 18.
 -   **GMR Infra:** Aeroports de Paris yields to buy a 49 percent stake in India’s GMR Airports for Rs 10,780 crore. The investment to proceed in two steps beginning 24.99 percent in the following days. The next step for 24.01 percent to want approvals from regulators comprises RBI paperwork. The second step is set to be concluded in the subsequent months.
 -   **Bharti Infratel** gets FDI Approval of DOT for the consolidation of Indus Towers on 21st Feb. 2020. The Board of Directors of the Company will convene on Monday i.e. Feb. 24, 2020, to take stock and determine the ultimate course of action.
