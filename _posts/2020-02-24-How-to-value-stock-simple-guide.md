@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Indian Stock Market
+title:  The Simple Guide - How To Value a Stock?
 date: 2020-02-24 
 categories: [ Stock-market, How-To ]
 image: assets/images/stock-valuation-indiasharesinvestment.png	
