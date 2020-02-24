@@ -39,7 +39,7 @@ title: Exclusive Investor's Club
 <br>
 <h4> What to expect</h4>
 We’ll send about three messages in a week — including 1-2 <strong>Best Selling Investor Ebooks for FREE</strong> and summaries of our biggest reports or guides. You will be able to lend books like those below for free. 
-
+<br>
 <img src="/assets/images/recommended-books-indiasharesinvestment.png" />
 
 <br><br>
