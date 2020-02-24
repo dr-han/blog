@@ -1,11 +1,12 @@
 ---
 layout: post
 title: India is an Entrepreneurship Model for the World: Global Tech Mogul
-date: 2020-02-24
+date: 2020-02-23
 categories: [ News, Startup, Investment, India ]
 image: assets/images/John_T_Chambers-indiasharesinvestment.jpg
 featured: false
 ---
+
 Tech Mogul John Chambers, owner, and CEO of JC2 Ventures reminded that cashing out early is not an 'Indian trend.' While he was heading Cisco Systems, he had acquired 180 firms. In an email interview with Shelley Singh, Chambers takes a close look at startups, in India as well as abroad, and the issues startup founders have to endure.  
 
 60 to 70% of start-ups, regardless of where they are on the globe have an exit strategy of being obtained by another company (that is, cashing out early), or by an exclusive equity firm that takes the company to a different degree. That being said, the giants or tech titans are usually those that swallow smaller startups. 
