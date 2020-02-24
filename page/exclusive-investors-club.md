@@ -38,11 +38,11 @@ title: Exclusive Investor's Club
 <h3>Benefits of Joining The Exclusive Club</h3>
 <br>
 <h4> What to expect</h4>
-We’ll send about three messages in a week — including 1-2 Best Selling Investor Ebooks for FREE and summaries of our biggest reports or guides. 
+We’ll send about three messages in a week — including 1-2 <strong>Best Selling Investor Ebooks for FREE</strong> and summaries of our biggest reports or guides. 
+<img src="/assets/images/recommended-books-indiasharesinvestment.png" />
 <br><br>
  <h4> How to subscribe</h4> 
 First, make sure you have WhatsApp on your mobile device. You can download it from the App Store for iOS or on Google Play for Android. Enter your details above including your phone number and email. 
 
- 
  
 </section>
