@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  India is an Entrepreneurship Model for the World: Global Tech Mogul
+title:  India is an Entrepreneurship Model for the World - Global Tech Mogul
 date: 2020-02-23
 categories: [ News, Startup, Investment, India ]
 image: assets/images/John_T_Chambers-indiasharesinvestment.jpg
