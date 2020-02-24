@@ -46,7 +46,7 @@ This model is the other valuation model we will briefly look at. It works by put
 ## Where do we find Stock information?
 Although there are lots of websites and apps for stock information, we highly recommend Money Control for Indian users. It offers detailed financial information about companies, news, portfolio, watchlist and more in English, Hindi and Gujarati. <a href="https://www.moneycontrol.com/apps" target="_blank">Download Here.</a>
 
-<a href="https://www.moneycontrol.com/apps"><img src="https://indiasharesinvestment.com/assets/images/app-indiasharesinvestment.png" height="200px"></img></a>
+<a href="https://www.moneycontrol.com/apps"><img src="https://indiasharesinvestment.com/assets/images/app-indiasharesinvestment.png" height="200px"></a>
 
 ## The Principles of Valuation from Fisher and Graham
 Philip Fisher the author of 'Common Stocks and Uncommon Profits' was a wall street wizard. Warren Buffet was so fascinated with the book that he met with Fisher privately to learn more about his strategies. 
@@ -75,5 +75,7 @@ The following are a few **golden rules to use in stock valuation** which are use
 ## What is a Good Portfolio?
 To succeed in investing, it is best to concentrate on industries we already know. Fisher called this the 'circle of competence'. Within that circle of competence, investors should conduct deep research and analysis. This kind of work may prove to be futile if you are a lone wolf. This is why we must use a focused portfolio. Such a portfolio has fewer companies under your observation, which means you have more focus and time on them, which in turn equates to more return. 
 
-A good resource to learn more about stock valuation is, <a href="https://amzn.to/2VgRG37" target="_blank">'The Neatest Little Guide to Stock Market Investing' by Jason Kelly</a>. <strong>Members of our Exclusive Investor's Club can lend this book to read for free. 
+A good resource to learn more about stock valuation is, <a href="https://amzn.to/2VgRG37" target="_blank">'The Neatest Little Guide to Stock Market Investing' by Jason Kelly</a>. 
+
+<strong>Members of our Exclusive Investor's Club can lend this book to read for free. 
  <a href="https://indiasharesinvestment.com/page/exclusive-investors-club/">Click here to Join for Free</a></strong>
