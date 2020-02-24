@@ -75,5 +75,5 @@ The following are a few **golden rules to use in stock valuation** which are use
 ## What is a Good Portfolio?
 To succeed in investing, it is best to concentrate on industries we already know. Fisher called this the 'circle of competence'. Within that circle of competence, investors should conduct deep research and analysis. This kind of work may prove to be futile if you are a lone wolf. This is why we must use a focused portfolio. Such a portfolio has fewer companies under your observation, which means you have more focus and time on them, which in turn equates to more return. 
 
-A good resource to learn more about stock valuation is, 'The Neatest Little Guide to Stock Market Investing' by Jason Kelly. <strong>Members of our Exclusive Investor's Club can lend this book to read for free. 
+A good resource to learn more about stock valuation is, <a href="https://amzn.to/2VgRG37" target="_blank">'The Neatest Little Guide to Stock Market Investing' by Jason Kelly</a>. <strong>Members of our Exclusive Investor's Club can lend this book to read for free. 
  <a href="https://indiasharesinvestment.com/page/exclusive-investors-club/">Click here to Join for Free</a></strong>
